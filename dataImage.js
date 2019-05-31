@@ -296,7 +296,7 @@ var listImage = [
 
   {
     name: 'Duy Bùi HomeD',
-    image: 'https://serving.photos.photobox.com/66582756a6d89436173f51f544fd800d360682cf7448c8a52a9f8c1ec2379d71cfe27d6f.jpg',
+    image: 'https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/430451_339145219469995_69999472_n.jpg?_nc_cat=110&_nc_oc=AQmB-fXVH79bauFpzBLurAiQ-QVB9cwMMl7wgHirSn18b4Zf5bd8CVE-hsq0hBPMzl4&_nc_ht=scontent.fhan2-4.fna&oh=f194719e0450385924967fdaa0c11921&oe=5D5D5507',
   },
 
   {
@@ -305,52 +305,57 @@ var listImage = [
   },
 
   {
-    name: 'Việt Anh HomeD',
-    image: 'https://serving.photos.photobox.com/61915738c3b45a1ee5bfac4bfe5e97984fe92506fd5d7ec918feb4f2300de6f9eb77f579.jpg',
+    name: 'Đào Việt Anh HomeD',
+    image: 'https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/1491780_760394084068210_1503205308187760499_n.jpg?_nc_cat=100&_nc_oc=AQkU9xY52nZr8uiN0zeb0xc29kBzf07CEBNkhMc5z8g7tsLxRatlsC40qhTztiK7Duk&_nc_ht=scontent.fhan2-4.fna&oh=7b283b833308d71941a6f315ff265025&oe=5D5338BB',
   },
 
   {
     name: 'Khuất Đăng Lâm HomeD',
-    image: 'https://serving.photos.photobox.com/763029705ea1914bb6dc47a0e91aa5fb7a74ea0a90dd0ca181a6e9f92f4689801b523acc.jpg',
+    image: 'https://scontent.fhan2-2.fna.fbcdn.net/v/t31.0-8/331979_506634326017308_250734573_o.jpg?_nc_cat=106&_nc_oc=AQm1Aq2d7DW5vHAJ2KiDLIs7XbyYftzNSwJQJG8Ks1viFN5AA-zX2Rl4HNHhts0Z8F4&_nc_ht=scontent.fhan2-2.fna&oh=f5912a11356f424965f6f515488948cc&oe=5D5388BA',
   },
 
   {
     name: 'Phạm Xuân Trường HomeD',
-    image: 'https://serving.photos.photobox.com/35648086ea0fd98ade62cb3dfd6a8e1668ddf37987c459cbf1e5f36c2359c21564a7230d.jpg',
+    image: 'https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/45398115_1352750678195610_3596541511283507200_n.jpg?_nc_cat=103&_nc_oc=AQk1_vm-PoHTJYCIdc1kNTE-JATCtuA1YRF8zM4L4dF6MzA3SxDP6MjN_1Hmb_z_lE8&_nc_ht=scontent.fhan2-1.fna&oh=a5245402fb0669530562cbf740b786cf&oe=5D547C3D',
   },
 
   {
     name: 'Lê Duy Tùng HomeD',
-    image: 'https://serving.photos.photobox.com/3923881430bc91b6b4b959e5aae5edeef965eca5fdd37e5fe08f7ff815575ee6d6d76a3f.jpg',
+    image: 'https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/733836_602050066534212_549550024_n.jpg?_nc_cat=103&_nc_oc=AQlxEQOBxX9898s6q5FEzgWgwpD9t5W_uC9CMKlQx4cWqWjLHRl5Z8Cb94MnERly77c&_nc_ht=scontent.fhan2-1.fna&oh=29f5b89a25e8417957ebac87dfc06a3f&oe=5D9F7726',
   },
 
   {
     name: 'Đỗ Đông Đức HomeD',
-    image: 'https://serving.photos.photobox.com/052778422e6cb8e8376bbf926fcac0dfffe106972efdf03b2e661b4e5b3133a84e6b69fb.jpg',
+    image: 'https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/542677_501879943202878_854426688_n.jpg?_nc_cat=107&_nc_oc=AQl_jih4MsJPlHT81QNzDlhHP60A0wJ3Nuy5QQP9X1j-YwlkpMrT86Fu1eseTnhqljw&_nc_ht=scontent.fhan2-3.fna&oh=c8c4f37beda65fc5a9acfa6532d6ce15&oe=5D95205C',
   },
 
   {
     name: 'Nguyễn Thế Tú HomeD',
-    image: 'https://serving.photos.photobox.com/076700906d80341268a214d02b4daacc9a2a93afa02c8eb182ebae346b8bb80a38cf5cb5.jpg',
+    image: 'https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/12472751_820749001401991_2231782036285110638_n.jpg?_nc_cat=102&_nc_oc=AQkoXqU7TMzAViFZsz5Qjqa4jiVmb12iMri-FDG-0cs6lk64Z1wkyPmAUMYXYHS0IjA&_nc_ht=scontent.fhan2-1.fna&oh=fdf03a1bcf8fa598f314e6bd7332d8d4&oe=5D9BE14F',
   },
 
   {
     name: 'Nguyễn Văn Dũng HomeD',
-    image: 'https://serving.photos.photobox.com/102230297ccf5945b6cd04dccc666b2f7470e1693857af0f9049bd253b2b17bc606b9673.jpg',
+    image: 'https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/14600986_143019142826432_1758852227141591752_n.jpg?_nc_cat=104&_nc_oc=AQnmkEwSvMHcNtaxDCfJiN3ZHPwFGzb2XlNmBv2FUizmldEp9VhiFBdqoM6f3qk4C3E&_nc_ht=scontent.fhan2-4.fna&oh=e231b703b00afef0682879462594042e&oe=5D8F66B7',
   },
 
   {
     name: 'Phạm Đức Anh HomeD',
-    image: 'https://serving.photos.photobox.com/53531725bd326bd9acd1cfd151ad18caa743dbf9d894ae039651458a6233789922652e8d.jpg',
+    image: 'https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/314664_229923320393768_4919606_n.jpg?_nc_cat=100&_nc_oc=AQmkiHMUMebRZ02koAj8XOjfEBGRpYoMctx1NgCtJUunGr-NnXTnNBrMwkeMyXO97_4&_nc_ht=scontent-hkg3-1.xx&oh=e7ad59e0ccb6fb11a79062ae4dc3a9e3&oe=5D57A8B9',
   },
 
   {
     name: 'Trần Dũng Thành HomeD',
-    image: 'https://serving.photos.photobox.com/521418391baf88302f773fab584df127e9b3412bc36f389acde99b7449b09912219788e4.jpg',
+    image: 'https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/31948887_1859261521038367_6541267919458795520_n.jpg?_nc_cat=103&_nc_oc=AQndioCQ15VH7Nv4Kpfl7batvOKfhxDscnyfLNef85cRegUMIqlYEtx6qCJW85TG0b4&_nc_ht=scontent.fhan2-1.fna&oh=5cafc09d003ad2498a1d0dfa94a81ba3&oe=5D9957CB',
+  },
+
+  {
+    name: 'Nguyễn Duy Hưng HomeD',
+    image: 'https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/11021080_10152988085015219_199160546130072853_n.jpg?_nc_cat=108&_nc_oc=AQmJvQAQElX0i4E6ebLMIA_C3B7okjJzLaPx5xFO3bDp9nf0pXe8J5G7OCSBV9eZDWc&_nc_ht=scontent.fhan2-3.fna&oh=e8ff72d677de455dc2e39ab708c1daa4&oe=5D95EE2A',
   },
 
   {
     name: 'Trịnh Văn Hải HomeD',
-    image: 'https://serving.photos.photobox.com/70048670f650029cfefc2d4147b065399a1e360d644769bb912c88e1a0f19f096ed18005.jpg',
+    image: 'https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/51883571_1583931905084684_6043640231016529920_n.jpg?_nc_cat=104&_nc_oc=AQkcOR3GRUkdyfrntP9jeq060mdTV1p7rCfOTajNy3bbcFnLpymLxytnojqL6A7hVwU&_nc_ht=scontent.fhan2-4.fna&oh=343a4632caf513e07494180106b4b165&oe=5D629C4E',
   },
 ]
