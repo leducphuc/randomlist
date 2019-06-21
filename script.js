@@ -72,6 +72,7 @@ var app = ((DataCtrl, UICtrl) => {
         // foundStudent = studentList[0];
 
         passedList = [foundStudent];
+        console.log(passedList, 'this is  passedList');
 
         moveCount = 0;
         var moveBug = function() {
