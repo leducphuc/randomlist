@@ -377,8 +377,22 @@ var listImage = [
     image: 'https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/51883571_1583931905084684_6043640231016529920_n.jpg?_nc_cat=104&_nc_oc=AQkcOR3GRUkdyfrntP9jeq060mdTV1p7rCfOTajNy3bbcFnLpymLxytnojqL6A7hVwU&_nc_ht=scontent.fhan2-4.fna&oh=343a4632caf513e07494180106b4b165&oe=5D629C4E',
     birth: '28/04/1995',
   },
+  {
+    name: 'Linh My',
+    image: 'https://scontent-hkg3-1.xx.fbcdn.net/v/t31.0-8/25542628_959311677549859_8669793544700821102_o.jpg?_nc_cat=111&_nc_oc=AQnCA3u1frFCqYwHO8d1EsYtOUYN_UuAhy6JGnogqFuAomcBp0OmIyopoJN7lyWaJrg&_nc_ht=scontent-hkg3-1.xx&oh=d8742df63d153304a93d773b17b2c7a2&oe=5D88CCC8',
+    birth: '02/12/1996'
+  },
+  {
+    name: 'Trần Việt Anh',
+    image: 'https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/21432921_893840347431939_7422181896201604253_n.jpg?_nc_cat=100&_nc_oc=AQnS7H3q0vTWOo8fKvJSNBahsG8ydnLMEAbQG25voLXE-d5aNZp-nCQ5YkSzTI2cz9E&_nc_ht=scontent-hkg3-1.xx&oh=3684dd10a8de8f5817d7364417c64bb9&oe=5D840EBD',
+    birth: '19/2/1996'
+  },
+  {
+    name: 'Lương Tuấn Dũng',
+    image: 'https://scontent-hkg3-1.xx.fbcdn.net/v/t31.0-8/28238385_1555619734554333_5475656047228397034_o.jpg?_nc_cat=101&_nc_oc=AQkw9rtZkIMmsyRqPvimxIkdf6i0uY1Z7DyDR27ovf0gWP4DO8VfYD81KItwFP4QNDA&_nc_ht=scontent-hkg3-1.xx&oh=113c50c14c9b59e6494551cba789256b&oe=5D796923',
+    birth: '19/2/1996'
+  }
 ].filter(item => {
-  console.log(item);
   if (!item.birth) return;
   const month = Number(item.birth.split('/')[1]) - 1;
   return month !== (new Date()).getMonth() + 1;
